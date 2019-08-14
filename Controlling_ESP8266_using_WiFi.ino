@@ -7,7 +7,7 @@ const char* ssid = "Linux_Hotspot";
 const char* password = "PassThrough";
 
 const char* host = "127.0.0.1";
-String url = "string.txt";
+String url = "MyCodes/string.txt";
 char r;
 int len;
 void setup() {
