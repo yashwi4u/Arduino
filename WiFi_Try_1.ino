@@ -3,10 +3,10 @@
 #include <String.h>
 
 int speedCar = 150;     // 50 - 255.
-const char* ssid = "GRTSID";
-const char* password = "gogenius";
+const char* ssid = "Linux_Hotspot";
+const char* password = "PassThrough";
 
-const char* host = "10.42.0.1";
+const char* host = "127.0.0.1";
 String url = "string.txt";
 char r;
 int len;
